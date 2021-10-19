@@ -1,3 +1,3 @@
 SELECT * FROM products
-ORDER BY id DESC
-LIMIT 5;
+WHERE id > 94
+ORDER BY id;
