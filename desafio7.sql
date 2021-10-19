@@ -1,3 +1,3 @@
-SELECT * FROM products
+SELECT id FROM products
 WHERE id > 94
 ORDER BY id;
